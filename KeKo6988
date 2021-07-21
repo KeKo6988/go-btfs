@@ -1,0 +1,4 @@
+$ sudo yum update          // Installs general updates for Linux
+$ sudo yum install git     // Lets you git clone the go-btfs repository
+$ sudo yum install patch   // Required for building from source
+$ sudo yum install gcc     // Required for building from source
